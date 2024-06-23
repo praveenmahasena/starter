@@ -1,7 +1,7 @@
-package main
+package starter
 
 import "fmt"
 
-func main() {
+func Starter() {
 	fmt.Println("started")
 }
